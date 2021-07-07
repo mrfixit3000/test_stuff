@@ -1,3 +1,6 @@
+# test note
+# these have to be in ascending order
+# third parameter (space delimited) is optional and any value implies an entire FS upgrade
 2.0.1 abcdefg
 2.0.2 hijklmn
 2.0.3 opqrstu fs
