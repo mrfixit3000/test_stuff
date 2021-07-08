@@ -1,7 +1,7 @@
 # test note
 # these have to be in ascending order
 # the values are space delimited
-# install type (third parameter) is optional: 0 (default)=initrd install, 1=rcadeboot install, 2=rootfs and any value implies an entire FS upgrade
+# install type (third parameter) is optional: 0 (default)=initrd install, 1=rcadeboot install, 2=rootfs replacement
 2.0.1 abcdefg
 2.0.2 hijklmn 1
 2.0.3 opqrstu 2
