@@ -1,8 +1,8 @@
 # test note
 # these have to be in ascending order
 # the values are space delimited
-# install type (third parameter) is optional: 0 (default)=initrd install, 1=rcadeboot install, 2=rootfs replacement
+# install type (third parameter) is optional: 1=rootfs replacement, any other value=initrd install
 2.0.1 abcdefg
 2.0.2 hijklmn 1
-2.0.3 opqrstu 2
+2.0.3 opqrstu 0
 2.0.4 vwxyz
