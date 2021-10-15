@@ -1,7 +1,7 @@
 # these have to be in ascending order
 # the values are space delimited
 # version number (first parameter) required
-# install type (third parameter) is optional: 1=rootfs replacement, any other value=initrd install
-# single upgrade file for all models (fourth parameter) is optional: 1=upgrade files end in "-all" instead of "-rock64"
+# install type (second parameter) is optional: 1=rootfs replacement, any other value=initrd install
+# single upgrade file for all models (third parameter) is optional: 1=upgrade files end in "-all" instead of "-rock64"
 
 2.0.1 0 1
