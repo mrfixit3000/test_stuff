@@ -4,7 +4,7 @@
 # md5 checksum (second parameter) required
 # install type (third parameter) is optional: 1=rootfs replacement, any other value=initrd install
 # single upgrade file for all models (fourth parameter) is optional: 1=upgrade files end in "-all" instead of "-rock64"
-2.0.1 abcdefg
+2.0.1 62d734b280b7dfba328e0eedbfa11f6f
 2.0.2 hijklmn 1
 2.0.3 opqrstu 0 1
 2.0.4 vwxyz
