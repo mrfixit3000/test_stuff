@@ -5,4 +5,3 @@
 # single upgrade file for all models (third parameter) is optional: 1=upgrade files end in "-all" instead of "-rock64"
 
 2.0.1 1 1
-2.0.2 0 1
